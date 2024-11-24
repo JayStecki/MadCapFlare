@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName"
+    EvaluatedDefinition="Przewodnicy EU">Przewodnicy EU</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber"
+    EvaluatedDefinition="=48 666 666 666">=48 666 666 666</Variable>
+  <Variable
+    Name="ProductName"
+    Comment=""
+    EvaluatedDefinition="Przewodnik po PL">Przewodnik po PL</Variable>
+  <Variable
+    Name="Date"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2024-11-24T10:56:23.2754597+01:00"
+    EvaluatedDefinition="hh:mm:ss">hh:mm:ss</Variable>
+</CatapultVariableSet>

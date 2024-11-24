@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>
+            <MadCap:dropDownHotspot>Top placesto see:</MadCap:dropDownHotspot>
+        </p>
+        <ul>
+            <li>
+                <p>
+                    <MadCap:dropDownHotspot>
+                        <br />
+                    </MadCap:dropDownHotspot>
+                </p>
+            </li>
+        </ul>
+    </body>
+</html>

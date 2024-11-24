@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary>
+  <GlossaryEntry
+    glossTerm="PolandGuideGlossary.Term0"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>city</Term>
+    </Terms>
+    <Definition
+      Link="">big town.</Definition>
+  </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="PolandGuideGlossary.Term1"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>restaurants</Term>
+    </Terms>
+    <Definition
+      Link="">place tgo eat</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>
